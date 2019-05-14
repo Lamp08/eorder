@@ -22,4 +22,4 @@ Order Api's
 1. /ecommerce/order/add - this will add new orders as passed in the list of orderDto. this will take care if the quantity is within the limits or not
                            if not then respective order wont be added.
 
-2. /ecommerce/order/allOrders - this will all the order and their users and date when its created on..
+2. /ecommerce/order/allOrders - this will all the order and their users and date when its created on.
